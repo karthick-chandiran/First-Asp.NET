@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{EA0737C1-A222-441B-8825-BF089C60B866}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASPEmpty/Startup.cs">
+    <Files>
+      <File FileName="ASPEmpty/appsettings.json" Line="10" Column="48" />
+      <File FileName="ASPEmpty/Startup.cs" Line="33" Column="98" />
+      <File FileName="ASPEmpty/appsettings.Development.json" Line="9" Column="11" />
+      <File FileName="ASPEmpty/Properties/launchSettings.json" Line="39" Column="39" />
+      <File FileName="ASPEmpty/wwwroot/EmptyCSSFile.css" Line="2" Column="21" />
+      <File FileName="ASPEmpty/wwwroot/EmptyHtmlFile.html" Line="11" Column="1" />
+      <File FileName="ASPEmpty/wwwroot/CustomHTML.html" Line="8" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASPEmpty" expanded="True">
+            <Node name="ASPEmpty" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ASPEmpty PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

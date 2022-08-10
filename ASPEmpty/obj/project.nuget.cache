@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jBfn5sRW+oCPoS2B2D0j5H/Qod9kkqqg/F3az46OF0HG4KFNDeGGoawDH5x5W2ZfVYvcQhYdbT5Qp0K3w/SA3A==",
+  "success": true,
+  "projectFilePath": "/Users/kc/Projects/ASPEmpty/ASPEmpty/ASPEmpty.csproj",
+  "expectedPackageFiles": [
+    "/Users/kc/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/kc/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.27/microsoft.netcore.app.host.osx-x64.3.1.27.nupkg.sha512",
+    "/Users/kc/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
